@@ -31,8 +31,16 @@ teacher-placement-analytics/
 - Writing subqueries for dynamic filtering
 - Applying window functions for ranking and analytics
 
+## 📈 Key Insights
+- John Carter supervised the most students (2 placements), while other mentors supervised only 1 student each.
+- Maple Grove Elementary had the highest average final evaluation score (95.0).
+- Students in Secondary Math had the highest average GPA (3.8), while Special Education students had the lowest (3.2).
+
+## 🪞 Reflection
+This project strengthened my SQL skills beyond basic SELECT statements. I became more confident using JOINs, GROUP BY, CASE statements, subqueries, and window functions to answer real-world business questions. It also reinforced the importance of designing a clean relational schema before writing queries. Creating this fictional dataset allowed me to simulate realistic reporting tasks similar to my current role in higher education while producing a portfolio-ready project.
+
 ## 📷 Screenshots
-The [Screenshots](Screenshots) folder contains proof of execution for all queries. Each image shows both the query and its results.
+The [screenshots folder](https://github.com/quintongoodman/teacher-placement-analytics/tree/main/screenshots) contains proof of execution for all queries. Each image shows both the query and its results.
 
 ## 🔧 Tools Used
 - PostgreSQL
@@ -41,6 +49,3 @@ The [Screenshots](Screenshots) folder contains proof of execution for all querie
 ## 🔗 Links
 - **Portfolio Website:** [View My Portfolio](https://quintongoodman.com/#portfolio)
 - **Live Repo:** [View on GitHub](https://github.com/quintongoodman/teacher-placement-analytics)
-
----
-This project is part of my portfolio as I transition into a **Data Analyst role**, focusing on SQL, Tableau, and data visualization.
