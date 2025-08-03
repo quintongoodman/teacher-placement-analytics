@@ -40,7 +40,7 @@ The `screenshots/` folder contains proof of execution for all queries. Each imag
 
 ## 🔗 Links
 - **Portfolio Website:** [View My Portfolio](https://quintongoodman.com/#portfolio)
-- **Live Repo:** [View on GitHub](https://github.com/YourGitHubUsername/teacher-placement-analytics)
+- **Live Repo:** [View on GitHub](https://github.com/quintongoodman/teacher-placement-analytics)
 
 ---
 This project is part of my portfolio as I transition into a **Data Analyst role**, focusing on SQL, Tableau, and data visualization.
