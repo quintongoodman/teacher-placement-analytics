@@ -39,8 +39,8 @@ The `screenshots/` folder contains proof of execution for all queries. Each imag
 - TablePlus
 
 ## 🔗 Links
-- **Portfolio Website:** [Add your link here]
-- **Live Repo:** [GitHub repo link]
+- **Portfolio Website:** (https://quintongoodman.com/#portfolio)
+- **Live Repo:** /
 
 ---
 This project is part of my portfolio as I transition into a **Data Analyst role**, focusing on SQL, Tableau, and data visualization.
