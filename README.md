@@ -32,7 +32,7 @@ teacher-placement-analytics/
 - Applying window functions for ranking and analytics
 
 ## 📷 Screenshots
-The [screenshots](main/screenshots) folder contains proof of execution for all queries. Each image shows both the query and its results.
+The [Screenshots](Screenshots) folder contains proof of execution for all queries. Each image shows both the query and its results.
 
 ## 🔧 Tools Used
 - PostgreSQL
